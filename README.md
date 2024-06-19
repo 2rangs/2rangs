@@ -17,10 +17,10 @@
 
 ## 📞 Contact 📞
 <div align="center">
-    <a href="mailto:2rangs@example.com">
+    <a href="mailto:2_rang25@naver.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.instagram.com/2rangs">
+    <a href="https://www.instagram.com/kyasi0205">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
