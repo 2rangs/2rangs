@@ -1,7 +1,10 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-  <img src="./assets/hero.svg" alt="김이랑 Kim Yi Rang — Frontend Engineer" width="100%" />
-</picture>
+<h1 align="center">김이랑</h1>
+
+<p align="center">
+  <code>FRONTEND ENGINEER</code><br />
+  보이는 화면보다 그 아래의 구조를 먼저 설계합니다.<br />
+  <sub>디자인 시스템 · 지도 · 데이터 시각화 · AI 협업 개발</sub>
+</p>
 
 <p align="center">
   <a href="https://2rang25.com">Blog</a> ·
@@ -12,12 +15,14 @@
 
 ## Stack
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/stack-map-mobile.svg" />
-  <img src="./assets/stack-map.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
-</picture>
+<p>
+  <b>중심</b>&emsp;<code>Vue 3</code><br />
+  <b>핵심</b>&emsp;<code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Storybook</code> <code>JavaScript</code><br />
+  주변&emsp;<code>Next.js</code> <code>MapLibre</code> <code>Chart.js</code> <code>Deck.gl</code> <code>OpenLayers</code> <code>Pinia</code><br />
+  <sub>외곽&emsp;<code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code> <code>Nginx</code></sub>
+</p>
 
-<p align="center">밝을수록 자주, 깊게 쓰는 기술입니다.</p>
+<sub>위에 있을수록 자주, 깊게 쓰는 기술입니다.</sub>
 
 ## Work
 
@@ -70,3 +75,12 @@
 <h3><img src="./assets/agent-gemini.svg" alt="" width="28" height="28" align="top" />&nbsp;Gemini</h3>
 
 > 이미지 생성 한두 번 하더니 그 이후로는 안 오셔요.
+
+<br />
+
+<p align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.png" />
+    <img src="./assets/signature-light.png" alt="김이랑 서명" width="180" />
+  </picture>
+</p>
