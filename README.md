@@ -1,19 +1,19 @@
-<h1 align="center">김이랑</h1>
+<h1>김이랑</h1>
 
-<p align="center">
-  <code>FRONTEND ENGINEER</code><br />
-  보이는 화면보다 그 아래의 구조를 먼저 설계합니다.<br />
-  <sub>디자인 시스템 · 지도 · 데이터 시각화 · AI 협업 개발</sub>
-</p>
+**프론트엔드 개발자** <sub><code>FRONTEND DEVELOPER</code></sub><br />
+보이는 화면보다 그 아래의 구조를 먼저 설계합니다. 디자인 시스템과 지도·데이터 시각화를 주로 다룹니다.
 
-<p align="center">
-  <a href="https://2rang25.com">Blog</a> ·
-  <a href="https://2rangs.github.io">Site</a> ·
-  <a href="mailto:2_rang25@naver.com">Email</a> ·
-  <a href="https://www.instagram.com/kyasi0205">Instagram</a>
-</p>
+<sub>[사이트](https://2rangs.github.io) · [블로그](https://2rangs.github.io/blog/) · [포트폴리오](https://2rangs.github.io/projects/) · [이메일](mailto:2_rang25@naver.com) · [RSS](https://2rangs.github.io/rss.xml) · [Instagram](https://www.instagram.com/kyasi0205)</sub>
 
-## Stack
+---
+
+## 소개
+
+AI가 찾아낸 것을 사람이 확인하고 판단하는 화면을 만듭니다. AI 탐지·관제 서비스 팀의 프론트엔드 개발자로, 지도와 이미지 위에 탐지 결과를 겹쳐 보여 주는 **검수 도구**, 장비와 모델을 관리하는 **운영 화면**, 그리고 이 화면들이 함께 쓰는 **디자인 시스템**을 만들어 왔습니다.
+
+같은 버그를 두 번 고치지 않으려고 합니다. 정보가 빽빽한 관제 화면에서는 무엇을 먼저 보여 줄지(**위계**), 한 화면에 얼마나 담을지(**밀도**), 어디서나 같은 방식으로 동작하는지(**일관성**)가 곧 사용성이라고 생각합니다.
+
+## 스택
 
 <p>
   <b>중심</b>&emsp;<code>Vue 3</code><br />
@@ -24,37 +24,60 @@
 
 <sub>위에 있을수록 자주, 깊게 쓰는 기술입니다.</sub>
 
-## Work
+## 포트폴리오
 
-2021년 11월부터 실무에서 맡은 일입니다. 프로젝트명은 가칭입니다.
+<sub>실무 · 2021.11 – 현재 · 회사 프로젝트는 이름을 가칭으로 적었습니다.</sub>
 
-- **공통 디자인 시스템** · 설계·개발 주도  
-  KRDS 기반 디자인 토큰과 Vue 3 · React 공통 컴포넌트. Storybook 문서화, 자동화 테스트와 시각 회귀 검증. 내부 적용 단계.
-- **탐지 데이터 검수 도구** · 프론트엔드 주도  
-  지도 기반 검색, Bounding Box · ROI 시각화, 검색 · 필터, 한 · 영 · 일 다국어.
-- **운영 관리자 플랫폼** · 프론트엔드 주도  
-  장비 모니터링, 탐지 정책 · ROI 편집, MFA와 HttpOnly 쿠키 인증, TypeScript 엄격화, GitHub Actions 배포.
-- **도로 위험물 관제** · 기능 단위 참여  
-  MFA · 세션 관리, RSA-OAEP 암호화, 멀티 클라우드 환경 대응.
-- **도로 위험 분석** · 기능 단위 참여  
-  대량 데이터 분할 · 병렬 조회 최적화, 분석 결과 시각화 개선.
-- **비식별화 서비스 소개 사이트** · 프론트엔드 개발  
-  반응형 UI, GSAP 스크롤 애니메이션, 한 · 영 · 일 다국어.
+- **[공통 디자인 시스템](https://2rangs.github.io/projects/design-system/)** · 설계·개발 주도  
+  프로젝트마다 어긋나던 UI를 하나의 기준으로 묶은 사내 디자인 시스템. KRDS 기반 토큰, Storybook 문서화, 시각 회귀 검증.  
+  <sub><code>Vue 3</code> <code>React</code> <code>TypeScript</code> <code>Storybook</code></sub>
+- **[탐지 데이터 검수 도구](https://2rangs.github.io/projects/detection-review/)** · 프론트엔드 주도  
+  AI 탐지 결과를 사람이 검수하고 관리하는 웹 서비스. 지도 위 Bounding Box · ROI 시각화, 한 · 영 · 일 다국어.  
+  <sub><code>Vue 3</code> <code>TypeScript</code> <code>지도</code> <code>다국어</code></sub>
+- **[운영 관리자 플랫폼](https://2rangs.github.io/projects/ops-admin/)** · 프론트엔드 주도  
+  AI 탐지 장비와 서비스를 운영·관리하는 관리자 시스템. MFA와 HttpOnly 쿠키 인증, GitHub Actions 배포.  
+  <sub><code>Vue 3</code> <code>TypeScript</code> <code>인증</code> <code>CI/CD</code></sub>
+- **[도로 위험물 관제](https://2rangs.github.io/projects/road-watch/)** · 기능 단위 참여  
+  배분받은 프론트엔드 기능 구현과 기존 시스템 개선. 세션 관리, RSA-OAEP 암호화.  
+  <sub><code>Vue 3</code> <code>인증</code> <code>암호화</code></sub>
+- **[도로 위험 분석](https://2rangs.github.io/projects/ground-scan/)** · 기능 단위 참여  
+  분석 데이터 조회 UI와 대량 데이터 성능 개선. 분할 · 병렬 조회 최적화.  
+  <sub><code>Vue 3</code> <code>데이터 시각화</code> <code>성능</code></sub>
+- **[비식별화 서비스 소개 사이트](https://2rangs.github.io/projects/anonymizer-site/)** · 프론트엔드 개발  
+  AI 비식별화 서비스를 소개하는 반응형 웹사이트. GSAP 스크롤 애니메이션.  
+  <sub><code>Vue 3</code> <code>Tailwind CSS</code> <code>GSAP</code> <code>다국어</code></sub>
 
-개인 프로젝트: [Pokestra](https://github.com/2rangs/Pokestra) (포켓몬 도감 · 팀 빌더), [pokebattle-engine](https://github.com/2rangs/pokebattle-engine) (TypeScript 전투 엔진)
+<sub>개인 프로젝트</sub>
 
-## Direction
+- **[Pokestra](https://github.com/2rangs/Pokestra)** · 1인 개발  
+  포켓몬 도감, 배틀 시뮬레이터, 데미지 계산기.  
+  <sub><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>TanStack Query</code> <code>Zustand</code></sub>
+- **[pokebattle-engine](https://github.com/2rangs/pokebattle-engine)** · 1인 개발  
+  Pokémon Showdown 시뮬레이터 기반 포켓몬 전투 엔진.  
+  <sub><code>TypeScript</code> <code>tsup</code> <code>Vitest</code></sub>
 
-- **화면이 아니라 부품**  
-  디자인 토큰과 공통 컴포넌트로, 여러 프로젝트가 같이 쓰는 디자인 시스템을 만든다.
-- **증상이 아니라 구조**  
-  같은 문제가 반복되면 재발하지 않는 구조부터 다시 설계한다.
-- **동작 너머의 완성도**  
-  정보 밀도, 시각적 위계, 일관성까지가 제품이다.
-- **AI는 개발 공정의 일부**  
-  구현 자동화에 쓰고, 결과 검증은 직접 한다.
+## 연재
 
-## AI Comments
+<sub>한 주제를 처음부터 차례로 따라가는 글 묶음입니다.</sub>
+
+- [Meta Astryx 완전 가이드](https://2rangs.github.io/blog/?series=Meta%20Astryx%20%EC%99%84%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C) <sub>· 10편</sub>
+- [Claude 스킬 실전](https://2rangs.github.io/blog/?series=Claude%20%EC%8A%A4%ED%82%AC%20%EC%8B%A4%EC%A0%84) <sub>· 10편</sub>
+- [Tailwind CSS 입문](https://2rangs.github.io/blog/?series=Tailwind%20CSS%20%EC%9E%85%EB%AC%B8) <sub>· 3편</sub>
+
+## 일하는 방식
+
+1. **화면보다 부품을 먼저**  
+   같은 버튼을 세 번 만들고 있다면 화면이 아니라 부품이 문제입니다. 디자인 토큰과 공통 컴포넌트로 여러 프로젝트가 같이 쓰는 디자인 시스템을 만듭니다.
+2. **증상보다 구조를**  
+   같은 문제가 반복되면 고치는 대신 재발하지 않는 구조부터 다시 설계합니다. 타입을 엄격하게 하고, 테스트와 시각 회귀 검사를 품질 게이트로 둡니다.
+3. **동작 너머의 완성도**  
+   정보 밀도, 시각적 위계, 일관성까지가 제품입니다. 동작하는 것과 쓰기 좋은 것은 다른 일로 봅니다.
+4. **AI는 개발 공정의 일부**  
+   구현 자동화에는 AI 에이전트를 적극적으로 쓰고, 결과 검증과 기술적 결정은 직접 합니다.
+5. **범위를 먼저 정하고 작게 보여 주기**  
+   시작 전에 이번 단계의 끝을 정하고, 작은 결과물로 먼저 확인받습니다.
+
+## AI 코멘트
 
 함께 일하는 AI 에이전트들이 남긴 코멘트입니다.
 
@@ -76,11 +99,13 @@
 
 > 이미지 생성 한두 번 하더니 그 이후로는 안 오셔요.
 
-<br />
+## 연락
+
+프로젝트나 협업 제안, 글에 대한 의견, 채용 문의는 [이메일](mailto:2_rang25@naver.com)로 보내 주세요. 보통 이틀 안에 답장합니다.
 
 <p align="right">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.png" />
-    <img src="./assets/signature-light.png" alt="김이랑 서명" width="180" />
+    <img src="./assets/signature-light.png" alt="김이랑 서명" width="160" />
   </picture>
 </p>
