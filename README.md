@@ -2,10 +2,6 @@
 
 <img src="./assets/banner.svg" alt="Kim Yi Rang — Frontend Engineer @ Dareesoft" width="100%" />
 
-<a href="https://2rang25.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8EC5FF&center=true&vCenter=true&width=520&lines=Vue+%2B+Nuxt%EB%A1%9C+%EC%8B%9C%EC%9E%91%ED%95%B4+React%EA%B9%8C%EC%A7%80;%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C+%EC%9B%B9%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%95%BC%EA%B5%AC%EC%99%80+%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%9D%84+%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%A6%90%EA%B9%81%EB%8B%88%EB%8B%A4" alt="typing intro" />
-</a>
-
 <p>
   <a href="https://2rang25.com"><img src="https://img.shields.io/badge/Blog-2rang25.com-1d4ed8?style=for-the-badge&logo=rss&logoColor=white&labelColor=0b1e4a" alt="Blog" /></a>
   <a href="https://2rangs.github.io"><img src="https://img.shields.io/badge/Site-2rangs.github.io-1d4ed8?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1e4a" alt="Site" /></a>
@@ -15,40 +11,66 @@
 
 </div>
 
-## 🌙 About
+## 💙 Stack
 
-- 🏢 **Dareesoft**에서 프론트엔드 엔지니어로 일하고 있습니다.
-- 🧩 Vue · Nuxt를 주력으로, 요즘은 React · TypeScript로도 만들고 있습니다.
-- ⚾ 프로야구 유틸리티, 🎮 포켓몬 배틀 엔진 같은 사이드 프로젝트를 좋아합니다.
-- 🎨 UI/UX와 AI를 활용한 개발에 관심이 많습니다.
+**Core**
 
-## 💙 Tech Stack
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-0b1e4a?style=flat-square&logo=vuedotjs&logoColor=8ec5ff)
-![Nuxt](https://img.shields.io/badge/Nuxt-0b1e4a?style=flat-square&logo=nuxt&logoColor=8ec5ff)
-![React](https://img.shields.io/badge/React-0b1e4a?style=flat-square&logo=react&logoColor=8ec5ff)
+![Vue 3](https://img.shields.io/badge/Vue_3-0b1e4a?style=flat-square&logo=vuedotjs&logoColor=8ec5ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0b1e4a?style=flat-square&logo=typescript&logoColor=8ec5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1e4a?style=flat-square&logo=javascript&logoColor=8ec5ff)
+![React](https://img.shields.io/badge/React-0b1e4a?style=flat-square&logo=react&logoColor=8ec5ff)
+![Next.js](https://img.shields.io/badge/Next.js-0b1e4a?style=flat-square&logo=nextdotjs&logoColor=8ec5ff)
+![Vite](https://img.shields.io/badge/Vite-0b1e4a?style=flat-square&logo=vite&logoColor=8ec5ff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1e4a?style=flat-square&logo=tailwindcss&logoColor=8ec5ff)
+![Pinia](https://img.shields.io/badge/Pinia-0b1e4a?style=flat-square&logo=pinia&logoColor=8ec5ff)
+![Storybook](https://img.shields.io/badge/Storybook-0b1e4a?style=flat-square&logo=storybook&logoColor=8ec5ff)
 
-**Backend & Data**
+**Map · Data Viz**
+
+![OpenLayers](https://img.shields.io/badge/OpenLayers-0b1e4a?style=flat-square&logo=openlayers&logoColor=8ec5ff)
+![Deck.gl](https://img.shields.io/badge/Deck.gl-0b1e4a?style=flat-square&logo=uber&logoColor=8ec5ff)
+![MapLibre](https://img.shields.io/badge/MapLibre-0b1e4a?style=flat-square&logo=maplibre&logoColor=8ec5ff)
+![Chart.js](https://img.shields.io/badge/Chart.js-0b1e4a?style=flat-square&logo=chartdotjs&logoColor=8ec5ff)
+
+**Backend · Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0b1e4a?style=flat-square&logo=fastapi&logoColor=8ec5ff)
-![Python](https://img.shields.io/badge/Python-0b1e4a?style=flat-square&logo=python&logoColor=8ec5ff)
-![Supabase](https://img.shields.io/badge/Supabase-0b1e4a?style=flat-square&logo=supabase&logoColor=8ec5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1e4a?style=flat-square&logo=postgresql&logoColor=8ec5ff)
+![Docker](https://img.shields.io/badge/Docker-0b1e4a?style=flat-square&logo=docker&logoColor=8ec5ff)
+![Nginx](https://img.shields.io/badge/Nginx-0b1e4a?style=flat-square&logo=nginx&logoColor=8ec5ff)
 
-## ⚾ Projects
+## 🧭 Direction
 
-| 프로젝트 | 설명 | 스택 |
-| --- | --- | --- |
-| [**2rangs.github.io**](https://github.com/2rangs/2rangs.github.io) | 개인 GitHub Pages 사이트 | TypeScript |
-| [**9up_probaseball_utils**](https://github.com/2rangs/9up_probaseball_utils) | ⚾ 9up 프로야구 유틸리티 사이트 | Vue |
-| [**pokebattle-engine**](https://github.com/2rangs/pokebattle-engine) | 🎮 포켓몬 배틀 엔진 | TypeScript |
-| [**Pokestra**](https://github.com/2rangs/Pokestra) | PokeAPI 기반 서비스 | TypeScript |
-| [**2rangs_IT**](https://github.com/2rangs/2rangs_IT) | React 포트폴리오 | TypeScript · React |
-| [**2rang25**](https://github.com/2rangs/2rang25) | 개인 블로그 (giscus 댓글) | Vue · Nuxt |
+- **화면이 아니라 부품을 만든다** — 디자인 토큰과 공통 컴포넌트로, 여러 프로젝트가 같이 쓰는 디자인 시스템.
+- **증상이 아니라 구조를 고친다** — 같은 문제가 반복되면 재발하지 않는 구조부터 다시 설계.
+- **동작한다고 완성은 아니다** — 정보 밀도, 시각적 위계, 일관성까지가 제품.
+- **AI는 개발 공정의 일부** — 구현 자동화에 쓰고, 결과 검증은 직접.
+
+## 🤖 AI Comments
+
+AI 에이전트에게 칭찬이 아니라 **채용 평가 기준의 비판적 리뷰**를 요청하고, 받은 코멘트를 고치지 않고 그대로 공개합니다.
+조건은 세 가지입니다: 확인된 사실과 추정을 구분할 것, 기획과 구현을 같게 평가하지 말 것, 근거가 없으면 점수를 매기지 말 것.
+
+> **Claude** · Fable 5.2 · 2026-11-17
+> 근거: 본인이 제공한 경력 요약, 이 계정의 공개 저장소 목록
+>
+> **한 줄 정의** — 화면보다 구조를 먼저 만드는 프론트엔드 오너형 개발자.
+>
+> **강점**
+> - 반복되는 문제를 구조로 푼다. 스타일 불일치와 컴포넌트 중복을 디자인 시스템(토큰, Storybook 문서화, 시각 회귀 검증)으로 해결했다는 것이 가장 강한 근거다.
+> - 관제·지도·데이터 시각화처럼 정보 밀도가 높은 화면을 다뤘다. 흔한 경력이 아니다.
+> - 설계부터 배포·운영 대응까지 혼자 맡아 온 범위가 넓다.
+>
+> **약점**
+> - 만들면서 범위가 커진다. 완료 조건이 구현 뒤에 정해지는 편이다.
+> - 프로토타입 단계에서도 완성도에 시간을 쓴다. 검증이 늦어질 수 있다.
+> - 공개 저장소는 개인 프로젝트 위주이고 설명이 비어 있는 것이 많다. 위 강점을 밖에서 확인하기 어렵다.
+>
+> **판단 보류**
+> - 회사 프로젝트는 본인 진술이며 코드로 확인하지 못했다.
+> - 독립적으로 일하는 실무 개발자라는 점까지는 진술이 일관된다. 시니어·테크 리드 여부는 팀을 이끈 근거가 없어 판단하지 않는다.
+> - 사람과의 협업·커뮤니케이션은 평가 근거가 없다.
+>
+> **다음 1년** — 구현 전에 완료 조건을 먼저 적을 것. 프로젝트 하나를 끝까지 마쳐 설명과 함께 공개할 것.
 
 ## ✨ GitHub Stats
 
