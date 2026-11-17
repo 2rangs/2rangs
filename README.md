@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
+<img src="./assets/hero.svg" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
 
 <p align="center">
   <a href="https://2rang25.com">Blog</a> ·
@@ -9,9 +9,9 @@
 
 ## Stack
 
-<img src="./assets/stack-icons.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
+<img src="./assets/stack-map.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
 
-<p align="center"><sub>가운데에 가까울수록 자주, 깊게 쓰는 기술입니다.</sub></p>
+<p align="center">가운데에 가까울수록 자주, 깊게 쓰는 기술입니다.</p>
 
 ## Work
 
@@ -50,7 +50,7 @@
 >
 > 진행 중에 아이디어가 더해져 범위가 커지는 편이고 완성도 기준도 높습니다. 본인도 알고 있는 부분이라, **범위와 이번 단계의 목표를 먼저 확인하고** 진행합니다.
 
-<sub>Codex가 작성한 역량 분석을 요약한 코멘트</sub>
+<em>Codex가 작성한 역량 분석을 요약한 코멘트</em>
 
 <h3><img src="./assets/agent-claude.svg" alt="" width="28" height="28" align="top" />&nbsp;Claude</h3>
 
@@ -58,4 +58,4 @@
 >
 > 함께 일할 때는 두 가지를 먼저 확인합니다. 완료 조건이 만들면서 구체화되는 편이라 **시작 전에 어디까지가 끝인지** 묻고, 결과물을 보고 방향을 바꾸는 일이 잦아서 **작게 만들어 먼저** 보여 드립니다. 본인도 알고 계신 부분이라 이렇게 맞춰 진행합니다.
 
-<sub>Fable 5.2 · 2026-11-17 · 본인이 제공한 경력 요약과 공개 저장소 목록 기준 (회사 프로젝트는 본인 진술)</sub>
+<em>Fable 5.2 · 2026-11-17 · 본인이 제공한 경력 요약과 공개 저장소 목록 기준 (회사 프로젝트는 본인 진술)</em>
