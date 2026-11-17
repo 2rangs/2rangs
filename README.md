@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2rangs&show_icons=true&hide_border=true&theme=transparent&title_color=42b883&icon_color=3178c6&text_color=8b949e" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2rangs&layout=compact&hide_border=true&theme=transparent&title_color=42b883&text_color=8b949e" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=2rangs&theme=transparent&hide_border=true&ring=42b883&fire=42b883&currStreakLabel=42b883&sideNums=3178c6&currStreakNum=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2rangs&bg_color=00000000&color=8b949e&line=42b883&point=3178c6&area=true&area_color=42b883&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 </div>
 
 <div align="center">
