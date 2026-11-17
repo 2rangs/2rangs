@@ -9,7 +9,7 @@
 
 ## Stack
 
-<img src="./assets/stack-radial.svg?v=2" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
+<img src="./assets/stack-icons.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
 
 <p align="center"><sub>가운데에 가까울수록 자주, 깊게 쓰는 기술입니다.</sub></p>
 
