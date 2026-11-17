@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-  <img src="./assets/hero.svg" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
+  <img src="./assets/hero.svg" alt="김이랑 Kim Yi Rang — Frontend Engineer" width="100%" />
 </picture>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <img src="./assets/stack-map.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
 </picture>
 
-<p align="center">진할수록 자주, 깊게 쓰는 기술입니다.</p>
+<p align="center">밝을수록 자주, 깊게 쓰는 기술입니다.</p>
 
 ## Work
 
