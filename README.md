@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg?v=3" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
+<img src="./assets/header.svg" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
 
 <p align="center">
   <a href="https://2rang25.com">Blog</a> ·
