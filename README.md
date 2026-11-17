@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg?v=2" alt="Kim Yi Rang — Frontend Engineer @ Dareesoft" width="100%" />
+<img src="./assets/banner.svg?v=3" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
 
 <p align="center">
   <a href="https://2rang25.com">Blog</a> ·
@@ -13,7 +13,7 @@
 
 ## Work
 
-2021년 11월부터 Dareesoft에서 맡은 일입니다. 프로젝트명은 가칭입니다.
+2021년 11월부터 실무에서 맡은 일입니다. 프로젝트명은 가칭입니다.
 
 <table>
 <tr><th align="left" width="190">프로젝트</th><th align="left" width="130">역할</th><th align="left">한 일</th></tr>
