@@ -1,11 +1,17 @@
-<h1>김이랑</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,50:5f656b,100:b4bac0&height=180&section=header&text=%EA%B9%80%EC%9D%B4%EB%9E%91&fontSize=56&fontColor=ececec&fontAlignY=36&desc=FRONTEND%20DEVELOPER&descSize=14&descAlignY=58&descAlign=50" alt="김이랑 — Frontend Developer" width="100%" />
 
-**프론트엔드 개발자** <sub><code>FRONTEND DEVELOPER</code></sub><br />
-보이는 화면보다 그 아래의 구조를 먼저 설계합니다. 디자인 시스템과 지도·데이터 시각화를 주로 다룹니다.
+<p align="center">
+  보이는 화면보다 그 아래의 구조를 먼저 설계합니다.<br />
+  디자인 시스템과 지도·데이터 시각화를 주로 다룹니다.
+</p>
 
-<sub>[사이트](https://2rangs.github.io) · [블로그](https://2rangs.github.io/blog/) · [포트폴리오](https://2rangs.github.io/projects/) · [이메일](mailto:2_rang25@naver.com) · [RSS](https://2rangs.github.io/rss.xml) · [Instagram](https://www.instagram.com/kyasi0205)</sub>
-
----
+<p align="center">
+  <a href="https://2rangs.github.io"><img src="https://img.shields.io/badge/Site-1b1b1b?style=flat-square&logo=githubpages&logoColor=white" alt="Site" /></a>
+  <a href="https://2rangs.github.io/blog/"><img src="https://img.shields.io/badge/Blog-1b1b1b?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://2rangs.github.io/projects/"><img src="https://img.shields.io/badge/Portfolio-1b1b1b?style=flat-square" alt="Portfolio" /></a>
+  <a href="mailto:2_rang25@naver.com"><img src="https://img.shields.io/badge/Email-1b1b1b?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/kyasi0205"><img src="https://img.shields.io/badge/Instagram-1b1b1b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ## 소개
 
@@ -15,12 +21,12 @@ AI가 찾아낸 것을 사람이 확인하고 판단하는 화면을 만듭니�
 
 ## 스택
 
-<p>
-  <b>중심</b>&emsp;<code>Vue 3</code><br />
-  <b>핵심</b>&emsp;<code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Storybook</code> <code>JavaScript</code><br />
-  주변&emsp;<code>Next.js</code> <code>MapLibre</code> <code>Chart.js</code> <code>Deck.gl</code> <code>OpenLayers</code> <code>Pinia</code><br />
-  <sub>외곽&emsp;<code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code> <code>Nginx</code></sub>
-</p>
+<table>
+  <tr><td><sub>중심</sub></td><td><img src="https://img.shields.io/badge/Vue_3-e4e4e4?style=flat-square&logo=vuedotjs&logoColor=1b1b1b" alt="Vue 3" /></td></tr>
+  <tr><td><sub>핵심</sub></td><td><img src="https://img.shields.io/badge/TypeScript-1b1b1b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-1b1b1b?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-1b1b1b?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Vite-1b1b1b?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Storybook-1b1b1b?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" /> <img src="https://img.shields.io/badge/JavaScript-1b1b1b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></td></tr>
+  <tr><td><sub>주변</sub></td><td><img src="https://img.shields.io/badge/Next.js-5f656b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/MapLibre-5f656b?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre" /> <img src="https://img.shields.io/badge/Chart.js-5f656b?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" /> <img src="https://img.shields.io/badge/Deck.gl-5f656b?style=flat-square" alt="Deck.gl" /> <img src="https://img.shields.io/badge/OpenLayers-5f656b?style=flat-square&logo=openlayers&logoColor=white" alt="OpenLayers" /> <img src="https://img.shields.io/badge/Pinia-5f656b?style=flat-square&logo=pinia&logoColor=white" alt="Pinia" /></td></tr>
+  <tr><td><sub>외곽</sub></td><td><img src="https://img.shields.io/badge/FastAPI-9aa1a8?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-9aa1a8?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-9aa1a8?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Nginx-9aa1a8?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /></td></tr>
+</table>
 
 <sub>위에 있을수록 자주, 깊게 쓰는 기술입니다.</sub>
 
@@ -109,3 +115,5 @@ AI가 찾아낸 것을 사람이 확인하고 판단하는 화면을 만듭니�
     <img src="./assets/signature-light.png" alt="김이랑 서명" width="160" />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b1b,50:5f656b,100:b4bac0&height=110&section=footer" alt="" width="100%" />
