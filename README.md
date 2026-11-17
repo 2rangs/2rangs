@@ -13,11 +13,7 @@
 
 ## 💙 Stack
 
-| 분야 | 기술 |
-| :-- | :-- |
-| **Core** | <img src="https://img.shields.io/badge/Vue_3-1d4ed8?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" /> <img src="https://img.shields.io/badge/TypeScript-1d4ed8?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-1d4ed8?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1d4ed8?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vite-1d4ed8?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-1d4ed8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Pinia-1d4ed8?style=flat-square&logo=pinia&logoColor=white" alt="Pinia" /> <img src="https://img.shields.io/badge/Storybook-1d4ed8?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" /> |
-| **Map · Data Viz** | <img src="https://img.shields.io/badge/OpenLayers-1d4ed8?style=flat-square&logo=openlayers&logoColor=white" alt="OpenLayers" /> <img src="https://img.shields.io/badge/Deck.gl-1d4ed8?style=flat-square&logo=uber&logoColor=white" alt="Deck.gl" /> <img src="https://img.shields.io/badge/MapLibre-1d4ed8?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre" /> <img src="https://img.shields.io/badge/Chart.js-1d4ed8?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" /> |
-| **Backend · Infra** | <img src="https://img.shields.io/badge/FastAPI-1d4ed8?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-1d4ed8?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Nginx-1d4ed8?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> |
+<img src="./assets/stack.svg" alt="Stack: TypeScript, Vue 3, React, Next.js, Vite, Pinia, Tailwind CSS, Storybook, OpenLayers, MapLibre, Deck.gl, Chart.js, FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
 
 ## 🧭 Direction
 
