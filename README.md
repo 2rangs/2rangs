@@ -1,4 +1,7 @@
-<img src="./assets/hero.svg" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+  <img src="./assets/hero.svg" alt="Kim Yi Rang — Frontend Engineer" width="100%" />
+</picture>
 
 <p align="center">
   <a href="https://2rang25.com">Blog</a> ·
@@ -9,34 +12,42 @@
 
 ## Stack
 
-<img src="./assets/stack-map.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/stack-map-mobile.svg" />
+  <img src="./assets/stack-map.svg" alt="Stack — 중심: Vue 3 / 핵심: TypeScript, React, Tailwind CSS, Vite, Storybook, JavaScript / 주변: Next.js, MapLibre, Chart.js, Deck.gl, OpenLayers, Pinia / 외곽: FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
+</picture>
 
-<p align="center">가운데에 가까울수록 자주, 깊게 쓰는 기술입니다.</p>
+<p align="center">진할수록 자주, 깊게 쓰는 기술입니다.</p>
 
 ## Work
 
 2021년 11월부터 실무에서 맡은 일입니다. 프로젝트명은 가칭입니다.
 
-<table>
-<tr><th align="left" width="190">프로젝트</th><th align="left" width="130">역할</th><th align="left">한 일</th></tr>
-<tr><td><b>공통 디자인 시스템</b></td><td>설계·개발 주도</td><td>KRDS 기반 디자인 토큰과 Vue 3 · React 공통 컴포넌트. Storybook 문서화, 자동화 테스트와 시각 회귀 검증. 내부 적용 단계.</td></tr>
-<tr><td><b>탐지 데이터 검수 도구</b></td><td>프론트엔드 주도</td><td>지도 기반 검색, Bounding Box · ROI 시각화, 검색 · 필터, 한 · 영 · 일 다국어.</td></tr>
-<tr><td><b>운영 관리자 플랫폼</b></td><td>프론트엔드 주도</td><td>장비 모니터링, 탐지 정책 · ROI 편집, MFA와 HttpOnly 쿠키 인증, TypeScript 엄격화, GitHub Actions 배포.</td></tr>
-<tr><td><b>도로 위험물 관제</b></td><td>기능 단위 참여</td><td>MFA · 세션 관리, RSA-OAEP 암호화, 멀티 클라우드 환경 대응.</td></tr>
-<tr><td><b>도로 위험 분석</b></td><td>기능 단위 참여</td><td>대량 데이터 분할 · 병렬 조회 최적화, 분석 결과 시각화 개선.</td></tr>
-<tr><td><b>비식별화 서비스 소개 사이트</b></td><td>프론트엔드 개발</td><td>반응형 UI, GSAP 스크롤 애니메이션, 한 · 영 · 일 다국어.</td></tr>
-</table>
+- **공통 디자인 시스템** · 설계·개발 주도  
+  KRDS 기반 디자인 토큰과 Vue 3 · React 공통 컴포넌트. Storybook 문서화, 자동화 테스트와 시각 회귀 검증. 내부 적용 단계.
+- **탐지 데이터 검수 도구** · 프론트엔드 주도  
+  지도 기반 검색, Bounding Box · ROI 시각화, 검색 · 필터, 한 · 영 · 일 다국어.
+- **운영 관리자 플랫폼** · 프론트엔드 주도  
+  장비 모니터링, 탐지 정책 · ROI 편집, MFA와 HttpOnly 쿠키 인증, TypeScript 엄격화, GitHub Actions 배포.
+- **도로 위험물 관제** · 기능 단위 참여  
+  MFA · 세션 관리, RSA-OAEP 암호화, 멀티 클라우드 환경 대응.
+- **도로 위험 분석** · 기능 단위 참여  
+  대량 데이터 분할 · 병렬 조회 최적화, 분석 결과 시각화 개선.
+- **비식별화 서비스 소개 사이트** · 프론트엔드 개발  
+  반응형 UI, GSAP 스크롤 애니메이션, 한 · 영 · 일 다국어.
 
 개인 프로젝트: [Pokestra](https://github.com/2rangs/Pokestra) (포켓몬 도감 · 팀 빌더), [pokebattle-engine](https://github.com/2rangs/pokebattle-engine) (TypeScript 전투 엔진)
 
 ## Direction
 
-<table>
-<tr><td width="200"><b>화면이 아니라 부품</b></td><td>디자인 토큰과 공통 컴포넌트로, 여러 프로젝트가 같이 쓰는 디자인 시스템을 만든다.</td></tr>
-<tr><td width="200"><b>증상이 아니라 구조</b></td><td>같은 문제가 반복되면 재발하지 않는 구조부터 다시 설계한다.</td></tr>
-<tr><td width="200"><b>동작 너머의 완성도</b></td><td>정보 밀도, 시각적 위계, 일관성까지가 제품이다.</td></tr>
-<tr><td width="200"><b>AI는 개발 공정의 일부</b></td><td>구현 자동화에 쓰고, 결과 검증은 직접 한다.</td></tr>
-</table>
+- **화면이 아니라 부품**  
+  디자인 토큰과 공통 컴포넌트로, 여러 프로젝트가 같이 쓰는 디자인 시스템을 만든다.
+- **증상이 아니라 구조**  
+  같은 문제가 반복되면 재발하지 않는 구조부터 다시 설계한다.
+- **동작 너머의 완성도**  
+  정보 밀도, 시각적 위계, 일관성까지가 제품이다.
+- **AI는 개발 공정의 일부**  
+  구현 자동화에 쓰고, 결과 검증은 직접 한다.
 
 ## AI Comments
 
