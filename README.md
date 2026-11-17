@@ -11,6 +11,22 @@
 
 <img src="./assets/stack.svg?v=2" alt="Stack: TypeScript, Vue 3, React, Next.js, Vite, Pinia, Tailwind CSS, Storybook, OpenLayers, MapLibre, Deck.gl, Chart.js, FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
 
+## Work
+
+2021년 11월부터 Dareesoft에서 맡은 일입니다. 프로젝트명은 가칭입니다.
+
+<table>
+<tr><th align="left" width="190">프로젝트</th><th align="left" width="130">역할</th><th align="left">한 일</th></tr>
+<tr><td><b>Design System</b><br/><sub>사내 디자인 시스템</sub></td><td>설계·개발 주도</td><td>KRDS 기반 디자인 토큰과 Vue 3 · React 컴포넌트 69종. 자동화 테스트 1,859건, 라인 커버리지 93.3%, 시각 회귀 스토리 276개. 내부 적용 단계.</td></tr>
+<tr><td><b>Detection Review</b><br/><sub>AI 탐지 데이터 검수</sub></td><td>프론트엔드 주도</td><td>지도 기반 검색, Bounding Box · ROI 시각화, 검색 · 필터, 한 · 영 · 일 다국어.</td></tr>
+<tr><td><b>Ops Admin</b><br/><sub>장비 · 서비스 운영 관리</sub></td><td>프론트엔드 주도</td><td>장비 모니터링, 탐지 정책 · ROI 편집, MFA와 HttpOnly 쿠키 인증, <code>any</code> 485개 제거, GitHub Actions 배포.</td></tr>
+<tr><td><b>Road Watch</b><br/><sub>도로 위험물 관제</sub></td><td>기능 단위 참여</td><td>MFA · 세션 관리, RSA-OAEP 암호화, 멀티 클라우드 환경 대응.</td></tr>
+<tr><td><b>Ground Scan</b><br/><sub>도로 위험 분석</sub></td><td>기능 단위 참여</td><td>대량 데이터 분할 · 병렬 조회 최적화, 분석 결과 시각화 개선.</td></tr>
+<tr><td><b>Blur Site</b><br/><sub>AI 비식별화 서비스 소개 사이트</sub></td><td>프론트엔드 개발</td><td>반응형 UI, GSAP 스크롤 애니메이션, 한 · 영 · 일 다국어.</td></tr>
+</table>
+
+개인 프로젝트: [Pokestra](https://github.com/2rangs/Pokestra) (포켓몬 도감 · 팀 빌더), [pokebattle-engine](https://github.com/2rangs/pokebattle-engine) (TypeScript 전투 엔진)
+
 ## Direction
 
 <table>
