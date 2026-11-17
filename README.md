@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="Kim Yi Rang — Frontend Engineer @ Dareesoft" width="100%" />
+<img src="./assets/banner.svg?v=2" alt="Kim Yi Rang — Frontend Engineer @ Dareesoft" width="100%" />
 
 <p align="center">
   <a href="https://2rang25.com">Blog</a> ·
@@ -9,16 +9,16 @@
 
 ## Stack
 
-<img src="./assets/stack.svg" alt="Stack: TypeScript, Vue 3, React, Next.js, Vite, Pinia, Tailwind CSS, Storybook, OpenLayers, MapLibre, Deck.gl, Chart.js, FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
+<img src="./assets/stack.svg?v=2" alt="Stack: TypeScript, Vue 3, React, Next.js, Vite, Pinia, Tailwind CSS, Storybook, OpenLayers, MapLibre, Deck.gl, Chart.js, FastAPI, PostgreSQL, Docker, Nginx" width="100%" />
 
 ## Direction
 
-| | |
-| :-- | :-- |
-| **화면이 아니라 부품** | 디자인 토큰과 공통 컴포넌트로, 여러 프로젝트가 같이 쓰는 디자인 시스템을 만든다. |
-| **증상이 아니라 구조** | 같은 문제가 반복되면 재발하지 않는 구조부터 다시 설계한다. |
-| **동작 너머의 완성도** | 정보 밀도, 시각적 위계, 일관성까지가 제품이다. |
-| **AI는 개발 공정의 일부** | 구현 자동화에 쓰고, 결과 검증은 직접 한다. |
+<table>
+<tr><td width="200"><b>화면이 아니라 부품</b></td><td>디자인 토큰과 공통 컴포넌트로, 여러 프로젝트가 같이 쓰는 디자인 시스템을 만든다.</td></tr>
+<tr><td width="200"><b>증상이 아니라 구조</b></td><td>같은 문제가 반복되면 재발하지 않는 구조부터 다시 설계한다.</td></tr>
+<tr><td width="200"><b>동작 너머의 완성도</b></td><td>정보 밀도, 시각적 위계, 일관성까지가 제품이다.</td></tr>
+<tr><td width="200"><b>AI는 개발 공정의 일부</b></td><td>구현 자동화에 쓰고, 결과 검증은 직접 한다.</td></tr>
+</table>
 
 ## AI Comments
 
