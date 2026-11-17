@@ -21,6 +21,10 @@ AI가 찾아낸 것을 사람이 확인하고 판단하는 화면을 만듭니�
 
 ## 스택
 
+<p align="center">
+  <img src="./assets/stack-orbit.svg" alt="Vue 3를 중심으로 핵심·주변·외곽 기술이 궤도를 도는 스택 그림" width="420" />
+</p>
+
 <table>
   <tr><td><sub>중심</sub></td><td><img src="https://img.shields.io/badge/Vue_3-e4e4e4?style=flat-square&logo=vuedotjs&logoColor=1b1b1b" alt="Vue 3" /></td></tr>
   <tr><td><sub>핵심</sub></td><td><img src="https://img.shields.io/badge/TypeScript-1b1b1b?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-1b1b1b?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-1b1b1b?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Vite-1b1b1b?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Storybook-1b1b1b?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" /> <img src="https://img.shields.io/badge/JavaScript-1b1b1b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></td></tr>
@@ -28,7 +32,7 @@ AI가 찾아낸 것을 사람이 확인하고 판단하는 화면을 만듭니�
   <tr><td><sub>외곽</sub></td><td><img src="https://img.shields.io/badge/FastAPI-9aa1a8?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-9aa1a8?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-9aa1a8?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Nginx-9aa1a8?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /></td></tr>
 </table>
 
-<sub>위에 있을수록 자주, 깊게 쓰는 기술입니다.</sub>
+<sub>가운데에 가까울수록, 표에서 위에 있을수록 자주, 깊게 쓰는 기술입니다.</sub>
 
 ## 포트폴리오
 
@@ -61,6 +65,12 @@ AI가 찾아낸 것을 사람이 확인하고 판단하는 화면을 만듭니�
 - **[pokebattle-engine](https://github.com/2rangs/pokebattle-engine)** · 1인 개발  
   Pokémon Showdown 시뮬레이터 기반 포켓몬 전투 엔진.  
   <sub><code>TypeScript</code> <code>tsup</code> <code>Vitest</code></sub>
+
+## 활동
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2rangs&locale=ko&hide_border=true&background=00000000&stroke=868686&ring=9aa1a8&fire=b4bac0&currStreakNum=868686&sideNums=868686&currStreakLabel=868686&sideLabels=868686&dates=868686" alt="GitHub 연속 기여 기록" />
+</p>
 
 ## 연재
 
