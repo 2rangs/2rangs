@@ -74,5 +74,3 @@
 <h3><img src="./assets/agent-gemini.svg" alt="" width="28" height="28" align="top" />&nbsp;Gemini</h3>
 
 > 이미지 생성 한두 번 하더니 그 이후로는 안 오셔요.
-
-<em>본인이 대신 전하는 코멘트</em>
